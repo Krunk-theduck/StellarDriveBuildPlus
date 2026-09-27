@@ -2,7 +2,7 @@
     "id":  "stellardrive-buildplus",
     "name":  "Build Plus",
     "author":  "Krunk",
-    "version":  "0.1.0",
+    "version":  "0.1.1",
     "description":  "Shift drag building, deletion, MMB pick item, copy and paste, and more building helpers. Needs SDModKit.",
     "thumbnail": "rbpt.png",
     "images": ["bpt.png", "bpdd.png"]
